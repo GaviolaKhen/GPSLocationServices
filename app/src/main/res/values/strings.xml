@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GPSLocationServices</string>
+    <string name="title_activity_login">activity_login</string>
+</resources>
